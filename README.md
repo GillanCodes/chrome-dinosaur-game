@@ -4,6 +4,7 @@
 
 ## How to build the app ?
 
+(UNIX and MacOs):)
 Download source code
 or 
 clone the repo :
